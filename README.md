@@ -75,11 +75,6 @@
   </a>
 </div>
 
-<div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=digantv&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=digantv&layout=compact&show_icons=true&theme=react" alt="digantv github-readme-stats" width="48%" />
-</div>
-
 ###
 
 <br clear="both">
