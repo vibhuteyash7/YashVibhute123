@@ -75,8 +75,8 @@
   </a>
 </div>
 <div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=YashVibhute123&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YashVibhute123&layout=compact&show_icons=true&theme=react" alt="YashVibhute123 github-readme-stats" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=vibhuteyash7&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhuteyash7&layout=compact&show_icons=true&theme=react" alt="vibhuteyash7 github-readme-stats" width="48%" />
 </div>
 ###
 
