@@ -74,9 +74,12 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=YashVibhute123&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YashVibhute123&layout=compact&show_icons=true&theme=react" alt="YashVibhute123 github-readme-stats" width="48%" />
+</div>
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/digantv/digantv/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/YashVibhute123/YashVibhute123/output/snake.svg" alt="Snake animation" />
